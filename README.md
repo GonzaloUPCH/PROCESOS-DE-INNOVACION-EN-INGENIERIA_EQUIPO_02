@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src=/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/42604fc2f4bb0fd1275ccc99577670bb657d1e89/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%201.png"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src=/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src=/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src=/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
