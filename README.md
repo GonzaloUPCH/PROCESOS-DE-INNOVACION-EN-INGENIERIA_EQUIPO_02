@@ -18,4 +18,18 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src=
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/40de03bf027a7a41551e5c398b178ce77fe3f182/Recursos%20o%20Im%C3%A1genes/Foto-equipo.png" />
+  <em>Figura 1. Fotografía del equipo 02</em>
+</p>
+
+---
+
+## 👥 Integrantes del Equipo  
+
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+| <img src=/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src=/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src=/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src=/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src=/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
