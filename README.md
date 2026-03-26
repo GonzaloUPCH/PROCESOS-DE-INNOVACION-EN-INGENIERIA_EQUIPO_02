@@ -32,4 +32,3 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/820733fccd42cdff937e7a98a57f02a43fa1e5b9/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%202.png" /> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/790c5164f949614373e40e04782b4ab50ea50119/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%203.png" /> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src=/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src=/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
