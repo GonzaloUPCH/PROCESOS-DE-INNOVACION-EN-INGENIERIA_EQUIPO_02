@@ -28,10 +28,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/42604fc2f4bb0fd1275ccc99577670bb657d1e89/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%201.png"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/820733fccd42cdff937e7a98a57f02a43fa1e5b9/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%202.png" /> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/790c5164f949614373e40e04782b4ab50ea50119/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%203.png" /> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/b456f93a21a60035f7f41f11d684b2a2c8000e4f/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%204.png" /> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/42604fc2f4bb0fd1275ccc99577670bb657d1e89/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%201.png"/> | **Gonzalo** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/820733fccd42cdff937e7a98a57f02a43fa1e5b9/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%202.png" /> | **Katherine** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/790c5164f949614373e40e04782b4ab50ea50119/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%203.png" /> | **Daniela** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/b456f93a21a60035f7f41f11d684b2a2c8000e4f/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%204.png" /> | **Diana** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
 ---
 
