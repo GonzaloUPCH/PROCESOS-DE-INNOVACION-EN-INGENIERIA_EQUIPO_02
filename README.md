@@ -9,14 +9,14 @@ Somos el Equipo 02 del curso Procesos de Innovación en Ingeniería 2026-1, conf
 
 ## 🚀 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
 
-## 📈 ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
+## ✅ ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
 Enfoque: Transformación de la manufactura tradicional mediante el rediseño radical.
 
 Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles.
 
 Aplicación: Implementación de tecnologías de la información para optimizar el uso de recursos y aumentar la resiliencia operativa post-pandemia.
 
-## 📈 ODS Secundarios
+## ✅ ODS Secundarios
 ODS 8 - Trabajo Decente y Crecimiento Económico
 
 Meta 8.2: Elevación de la productividad mediante la diversificación y modernización tecnológica.
@@ -29,6 +29,12 @@ Meta 12.2: Gestión sostenible y uso eficiente de materias primas al eliminar pr
 A. Eficiencia de Procesos: Porcentaje de reducción en tiempos de ciclo.
 
 B. Adopción Tecnológica: Nivel de integración de herramientas digitales en la toma de decisiones.
+
+C. Eficiencia de Costos: Porcentaje de ahorro en gastos operativos tras la eliminación de procesos redundantes.
+
+D. Calidad Operativa: Reducción en la tasa de retrabajos (rework) mediante la estandarización digital.
+
+E. Nivel de Servicio: Mejora en los tiempos de respuesta y entrega al cliente final (Lead Time).
 
 ---
 
