@@ -7,13 +7,11 @@
 ## 🌍 Descripción del Equipo 
 Somos el Equipo 02 del curso Procesos de Innovación en Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Industrial. Nuestro equipo tiene por objetivo aplicar la metodología de diseño para desarrollar soluciones innovadoras orientadas a la optimización de procesos, mejora de sistemas y solución de problemas reales.
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
+## 🚀 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
 
-## 🚀 ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
+## 📈 ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
 Enfoque: Transformación de la manufactura tradicional mediante el rediseño radical.
-
 Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles.
-
 Aplicación: Implementación de tecnologías de la información para optimizar el uso de recursos y aumentar la resiliencia operativa post-pandemia.
 
 ## 📈 ODS Secundarios
