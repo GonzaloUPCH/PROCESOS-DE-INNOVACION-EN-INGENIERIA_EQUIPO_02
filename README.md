@@ -7,6 +7,13 @@
 ## 🌍 Descripción del Equipo 
 Somos el Equipo 02 del curso Procesos de Innovación en Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Industrial. Nuestro equipo tiene por objetivo aplicar la metodología de diseño para desarrollar soluciones innovadoras orientadas a la optimización de procesos, mejora de sistemas y solución de problemas reales.
 
+## La Reingeniería
+La reingeniería no consiste en hacer pequeños ajustes; implica cuestionar a fondo los procesos existentes y rediseñarlos desde cero cuando sea necesario.
+
+Parte de la idea de que, si una empresa se creara hoy con la tecnología actual, no funcionaría de la misma manera, ya que muchos procesos podrían simplificarse o eliminarse.
+
+Por ello, la reingeniería propone cambios radicales que permiten mejorar de forma notable la eficiencia, el tiempo y la calidad. En un entorno cambiante, no basta con mejorar poco a poco; en muchos casos, es necesario reinventarse por completo.
+
 ## 🚀 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
 
 ## ✅ ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
