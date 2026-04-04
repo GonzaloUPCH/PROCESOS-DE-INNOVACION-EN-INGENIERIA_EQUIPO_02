@@ -54,7 +54,7 @@ E. Nivel de Servicio: Mejora en los tiempos de respuesta y entrega al cliente fi
 | <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/820733fccd42cdff937e7a98a57f02a43fa1e5b9/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%202.png" /> | **Katherine** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/790c5164f949614373e40e04782b4ab50ea50119/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%203.png" /> | **Daniela** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/b456f93a21a60035f7f41f11d684b2a2c8000e4f/Recursos%20o%20Im%C3%A1genes/Foto%20-%20integrante%204.png" /> | **Diana** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/fb676599febd12e73518c6a01382ce8a0db59a7c/foto_mas_pequena.png"/> | **Amador** | Programador - Modelador | Programación lógica, análisis de datos, simulación de procesos  |
+| <img src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/6908525c8c4d2cd0b8d9af2496a9a2f708379ac0/Recursos%20o%20Im%C3%A1genes/Foto%20integrante%205.png"/> | **Amador** | Programador - Modelador | Programación lógica, análisis de datos, simulación de procesos  |
 
 ---
 
