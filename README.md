@@ -43,7 +43,48 @@ D. Calidad Operativa: Reducción en la tasa de retrabajos (rework) mediante la e
 
 E. Nivel de Servicio: Mejora en los tiempos de respuesta y entrega al cliente final (Lead Time).
 
----
+## 🔍 Desk Research: Automatización en la Industria de Limpieza
+Este apartado detalla la investigación secundaria realizada para comprender los desafíos de eficiencia y tecnología en las medianas empresas de productos de limpieza en el Perú.
+
+## 📌 Definición del Problema
+Las medianas empresas del sector operan mayoritariamente con procesos manuales, lo que genera:
+
+- Cuellos de botella críticos en la producción.
+
+- Desperdicio de insumos químicos y recursos.
+
+- Limitada capacidad de respuesta ante una demanda de mercado creciente.
+
+## 📊 Hallazgos Clave
+Nuestra investigación analizó datos de consultoras globales y entidades locales:
+
+1. Productividad: La automatización puede elevar la productividad operativa entre un 30% y 45%.
+
+2. Impacto Económico: Implementar tecnología reduce costos operativos en un 30% en promedio.
+
+3. Factor Humano: La resistencia al cambio y el miedo al reemplazo son los principales frenos para la digitalización en el Perú.
+
+4. Brecha Local: El 35% de las medianas empresas del sector químico reportan problemas críticos en su cadena de suministro y gestión de inventarios.
+
+## 📈 Tendencias del Sector
+
+Brecha de Eficiencia: Existe una diferencia del 30% en eficiencia respecto a las grandes corporaciones debido a la persistencia de lo manual.
+
+Guerra de Precios: La tendencia hacia formatos de "ahorro" (galoneras) exige reducir hasta un 60% los defectos de calidad para mantener la rentabilidad.
+
+Reducción de Errores: La tecnología tiene el potencial de reducir errores humanos entre un 67.68% y 85.73%.
+
+## 💡 Insights Identificados
+
+- Las medianas empresas de productos de limpieza necesitan automatizar y optimizar el control de recursos y productos porque la baja digitalización genera pérdidas económicas, desperdicio de insumos, un uso ineficiente de operarios y aumenta la carga operativa y el estrés laboral.
+
+- Las medianas empresas necesitan capacitar a sus trabajadores en métodos que optimicen de manera rápida y eficaz los procedimientos, porque la resistencia al cambio limita la adopción tecnológica y provoca que los trabajadores sientan que los están reemplazando.
+
+- Las medianas empresas de productos de limpieza necesitan priorizar la optimización de su gestión de datos y reducir el tiempo de recolección porque una gestión ineficiente limita el control de los procesos, incrementa la carga y frustración de trabajadores y genera pérdidas operativas.
+
+## 🚀 Pregunta Retadora (HMW)
+
+¿De qué manera podríamos automatizar los procesos productivos en medianas empresas de productos de limpieza en el Perú para reducir cuellos de botella y mejorar la eficiencia operativa?
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
