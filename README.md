@@ -14,7 +14,7 @@ Parte de la idea de que, si una empresa se creara hoy con la tecnología actual,
 
 Por ello, la reingeniería propone cambios radicales que permiten mejorar de forma notable la eficiencia, el tiempo y la calidad. En un entorno cambiante, no basta con mejorar poco a poco; en muchos casos, es necesario reinventarse por completo.
 
-## 🚀 Innovación y reingeniería en el marco de los ODS:**
+## 🚀 Innovación y reingeniería en el marco de los ODS:
 
 ## ✅ ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
 Enfoque: Transformación de la manufactura tradicional mediante el rediseño radical.
