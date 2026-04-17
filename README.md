@@ -68,11 +68,11 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 ## 📈 Tendencias del Sector
 
-Brecha de Eficiencia: Existe una diferencia del 30% en eficiencia respecto a las grandes corporaciones debido a la persistencia de lo manual.
+- Brecha de Eficiencia: Existe una diferencia del 30% en eficiencia respecto a las grandes corporaciones debido a la persistencia de lo manual.
 
-Guerra de Precios: La tendencia hacia formatos de "ahorro" (galoneras) exige reducir hasta un 60% los defectos de calidad para mantener la rentabilidad.
+- Guerra de Precios: La tendencia hacia formatos de "ahorro" (galoneras) exige reducir hasta un 60% los defectos de calidad para mantener la rentabilidad.
 
-Reducción de Errores: La tecnología tiene el potencial de reducir errores humanos entre un 67.68% y 85.73%.
+- Reducción de Errores: La tecnología tiene el potencial de reducir errores humanos entre un 67.68% y 85.73%.
 
 ## 💡 Insights Identificados
 
