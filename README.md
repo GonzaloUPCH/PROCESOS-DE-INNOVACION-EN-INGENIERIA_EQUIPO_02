@@ -143,11 +143,11 @@ Luis realiza gran parte de sus actividades de forma manual, como la dosificació
 
 ### 💡 Insights
 
-“Los operarios de producción necesitan sentirse seguros en su trabajo porque temen que pequeños errores afecten su estabilidad laboral”
+“Los operarios de producción del área de mezclado necesitan sentirse seguros en su trabajo porque temen que pequeños errores afecten su estabilidad laboral”
 
-“Los operarios de producción necesitan confianza en los cambios tecnológicos porque la incertidumbre les genera resistencia y estrés”
+“Los operarios de producción del área de mezclado necesitan confianza en los cambios tecnológicos porque la incertidumbre les genera resistencia y estrés”
 
-“Los operarios de producción necesitan mayor control sobre su trabajo porque los procesos actuales les hacen sentir vulnerables ante fallas”
+“Los operarios de producción del área de mezclado necesitan mayor control sobre su trabajo porque los procesos actuales les hacen sentir vulnerables ante fallas”
 
 ### 🎯 POV (Point of View)
 
