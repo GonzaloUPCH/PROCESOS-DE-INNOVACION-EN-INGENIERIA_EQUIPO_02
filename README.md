@@ -143,7 +143,7 @@ Luis realiza gran parte de sus actividades de forma manual, como la dosificació
 
 El análisis del User Persona permitió comprender la necesidad de implementar soluciones tecnológicas que brinden mayor control, claridad y apoyo durante el proceso productivo, contribuyendo a mejorar la eficiencia operativa y reducir el estrés laboral.
 
-## 💡 Insights
+### 💡 Insights
 
 “Los operarios de producción necesitan sentirse seguros en su trabajo porque temen que pequeños errores afecten su estabilidad laboral”
 
@@ -151,12 +151,12 @@ El análisis del User Persona permitió comprender la necesidad de implementar s
 
 “Los operarios de producción necesitan mayor control sobre su trabajo porque los procesos actuales les hacen sentir vulnerables ante fallas”
 
-## 🎯 POV (Point of View)
+### 🎯 POV (Point of View)
 
 Los operarios de producción del área de mezclado en medianas empresas de productos de limpieza en el Perú necesitan tener mayor control, claridad en la información y confianza en cada etapa de su trabajo  porque el sistema actual les genera una alta carga física y mental, además de inseguridad constante ante posibles errores en la formulación o registro de lotes que podrían afectar su desempeño laboral y la eficiencia de la empresa. 
 
 
-## ❓ HMW (How Might We)
+### ❓ HMW (How Might We)
 
 ¿Cómo podríamos brindar al operario visibilidad en tiempo real del proceso productivo para reducir errores y mejorar la eficiencia?
 
