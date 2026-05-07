@@ -135,7 +135,9 @@ Gerente:
 * Cansancio por trabajo repetitivo.
   
 ### Journey map
-�PNG
+
+https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blame/bc2a19ef138ca7d5b0e88d10e925da7a37edcb50/Recursos%20o%20Im%C3%A1genes/Journey%20Map
+
 ## 👤 User Persona
 
 El User Persona representa a Luis Sánchez, operario de producción de 38 años que trabaja en el área de mezclado dentro de una mediana empresa de productos de limpieza en Lima. A través de esta representación se identificaron sus principales motivaciones, frustraciones, comportamientos y relación con la tecnología dentro del entorno laboral.
