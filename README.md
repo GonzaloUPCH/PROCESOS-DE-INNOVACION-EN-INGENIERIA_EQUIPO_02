@@ -106,6 +106,44 @@ Gerente:
 
 • Responsable de la gestión estratégica y la rentabilidad del negocio. Sin embargo, se ve afectado por ineficiencias operativas, errores en producción y falta de control en tiempo real.
 
+## 🧠 Mapa de Empatía – Usuario Primario
+
+### 🗣️ ¿Qué dice?
+
+* “Si hay errores, recién nos damos cuenta al final.”
+* “El trabajo manual demora mucho el proceso.”
+* “Si me equivoco en la mezcla, se pierde todo el lote.”
+
+### 💭 ¿Qué piensa?
+
+* “La empresa podría mejorar si usara más tecnología.”
+* “Estoy haciendo trabajo de más por falta de organización.”
+* “Los procesos son complicados y poco eficientes.”
+
+### ⚙️ ¿Qué hace?
+
+* Realiza la dosificación manual de insumos.
+* Reacciona a errores cuando ya ocurrieron.
+* Toma decisiones sin información clara.
+* Repite procesos por fallas en producción.
+
+### 😟 ¿Qué siente?
+
+* Inseguridad al no tener información precisa.
+* Estrés por cumplir metas de producción.
+* Frustración por perder tiempo y recursos.
+* Cansancio por trabajo repetitivo.
+  
+
+## 👤 User Persona
+
+El User Persona representa a Luis Sánchez, operario de producción de 38 años que trabaja en el área de mezclado dentro de una mediana empresa de productos de limpieza en Lima. A través de esta representación se identificaron sus principales motivaciones, frustraciones, comportamientos y relación con la tecnología dentro del entorno laboral.
+
+Luis realiza gran parte de sus actividades de forma manual, como la dosificación de insumos y el registro de producción, lo que incrementa la probabilidad de errores, reprocesos y sobrecarga de trabajo. Además, presenta un acceso limitado a herramientas digitales, utilizando tecnología básica principalmente para comunicación.
+
+El análisis del User Persona permitió comprender la necesidad de implementar soluciones tecnológicas que brinden mayor control, claridad y apoyo durante el proceso productivo, contribuyendo a mejorar la eficiencia operativa y reducir el estrés laboral.
+
+
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/40de03bf027a7a41551e5c398b178ce77fe3f182/Recursos%20o%20Im%C3%A1genes/Foto-equipo.png" />
