@@ -89,31 +89,19 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 ## 👷 Usuario Primario
 Operario de Producción
 
-Encargado de la mezcla y dosificación manual de insumos químicos.
+• Operario de producción del área de mezclado 
+Trabajador encargado de la dosificación y mezcla de insumos químicos mediante procesos mayormente manuales y con limitado apoyo tecnológico. 
 
-Necesidades
-Mayor control del proceso.
-Reducción de errores.
-Información clara y rápida.
 ## 📋 Usuario Secundario
-Supervisor de Producción
+Supervisor de producción
 
-Responsable del monitoreo y control operativo.
+• Responsable de monitorear el proceso productivo, sin información en tiempo real para tomar decisiones eficientes.
 
-Necesidades
-Información en tiempo real.
-Mayor trazabilidad.
-Control eficiente del proceso.
 
 ## 🏢 Usuario Terciario (Stakeholder)
 Gerente
 
-Responsable de la gestión estratégica y rentabilidad.
-
-Necesidades
-Reducir pérdidas.
-Mejorar productividad.
-Optimizar costos operativos.
+• Responsable de la gestión estratégica y la rentabilidad del negocio. Sin embargo, se ve afectado por ineficiencias operativas, errores en producción y falta de control en tiempo real.
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
