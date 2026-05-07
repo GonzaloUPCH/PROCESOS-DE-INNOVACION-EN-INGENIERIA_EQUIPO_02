@@ -184,4 +184,4 @@ Los operarios de producción del área de mezclado en medianas empresas de produ
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+Este README presenta la investigación y análisis del Equipo 02 sobre la automatización y reingeniería de procesos en medianas empresas de productos de limpieza en el Perú, con el objetivo de reducir errores, optimizar recursos y mejorar la eficiencia operativa. A través de herramientas de innovación e investigación centradas en el usuario, se identificaron necesidades clave que impulsan el desarrollo de soluciones tecnológicas alineadas con los ODS y la transformación digital de la industria.  
