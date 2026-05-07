@@ -134,7 +134,8 @@ Gerente:
 * Frustración por perder tiempo y recursos.
 * Cansancio por trabajo repetitivo.
   
-
+### Journey map
+�PNG
 ## 👤 User Persona
 
 El User Persona representa a Luis Sánchez, operario de producción de 38 años que trabaja en el área de mezclado dentro de una mediana empresa de productos de limpieza en Lima. A través de esta representación se identificaron sus principales motivaciones, frustraciones, comportamientos y relación con la tecnología dentro del entorno laboral.
