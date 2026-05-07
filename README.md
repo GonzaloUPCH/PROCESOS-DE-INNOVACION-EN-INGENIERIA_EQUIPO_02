@@ -93,7 +93,7 @@ Este apartado identifica a los principales actores involucrados en los procesos 
 ### 👷 Usuario Primario
 Operario de producción del área de mezclado: 
 
-• Trabajador encargado de la dosificación y mezcla de insumos químicos mediante procesos mayormente manuales y con limitado apoyo tecnológico. 
+• Trabajador encargado de la dosificación y mezcla de insumos químicos, entre otras funciones; generalmente mediante procesos manuales y con limitado apoyo tecnológico.
 
 ### 📋 Usuario Secundario
 Supervisor de producción:
