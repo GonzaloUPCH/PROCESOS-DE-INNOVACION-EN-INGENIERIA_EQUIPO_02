@@ -24,11 +24,11 @@ Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que se
 Aplicación: Implementación de tecnologías de la información para optimizar el uso de recursos y aumentar la resiliencia operativa post-pandemia.
 
 #### ✅ ODS Secundarios
-ODS 8 - Trabajo Decente y Crecimiento Económico
+• ODS 8 - Trabajo Decente y Crecimiento Económico
 
 Meta 8.2: Elevación de la productividad mediante la diversificación y modernización tecnológica.
 
-ODS 12 - Producción y Consumo Responsables
+• ODS 12 - Producción y Consumo Responsables
 
 Meta 12.2: Gestión sostenible y uso eficiente de materias primas al eliminar procesos que generan desperdicios innecesarios.
 
