@@ -14,16 +14,16 @@ Parte de la idea de que, si una empresa se creara hoy con la tecnología actual,
 
 Por ello, la reingeniería propone cambios radicales que permiten mejorar de forma notable la eficiencia, el tiempo y la calidad. En un entorno cambiante, no basta con mejorar poco a poco; en muchos casos, es necesario reinventarse por completo.
 
-## 🚀 Innovación y reingeniería en el marco de los ODS:
+### 🚀 Innovación y reingeniería en el marco de los ODS:
 
-## ✅ ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
+#### ✅ ODS Primario: ODS 9 - Industria, Innovación e Infraestructura
 Enfoque: Transformación de la manufactura tradicional mediante el rediseño radical.
 
 Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles.
 
 Aplicación: Implementación de tecnologías de la información para optimizar el uso de recursos y aumentar la resiliencia operativa post-pandemia.
 
-## ✅ ODS Secundarios
+#### ✅ ODS Secundarios
 ODS 8 - Trabajo Decente y Crecimiento Económico
 
 Meta 8.2: Elevación de la productividad mediante la diversificación y modernización tecnológica.
@@ -32,7 +32,7 @@ ODS 12 - Producción y Consumo Responsables
 
 Meta 12.2: Gestión sostenible y uso eficiente de materias primas al eliminar procesos que generan desperdicios innecesarios.
 
-## 📊 Indicadores de Impacto
+#### 📊 Indicadores de Impacto
 A. Eficiencia de Procesos: Porcentaje de reducción en tiempos de ciclo.
 
 B. Adopción Tecnológica: Nivel de integración de herramientas digitales en la toma de decisiones.
@@ -46,7 +46,7 @@ E. Nivel de Servicio: Mejora en los tiempos de respuesta y entrega al cliente fi
 ## 🔍 Desk Research: Automatización en la Industria de Limpieza
 Este apartado detalla la investigación secundaria realizada para comprender los desafíos de eficiencia y tecnología en las medianas empresas de productos de limpieza en el Perú.
 
-## 📌 Definición del Problema
+### 📌 Definición del Problema
 Las medianas empresas del sector operan mayoritariamente con procesos manuales, lo que genera:
 
 - Cuellos de botella críticos en la producción.
@@ -55,7 +55,7 @@ Las medianas empresas del sector operan mayoritariamente con procesos manuales, 
 
 - Limitada capacidad de respuesta ante una demanda de mercado creciente.
 
-## 📊 Hallazgos Clave
+### 📊 Hallazgos Clave
 Nuestra investigación analizó datos de consultoras globales y entidades locales:
 
 1. Productividad: La automatización puede elevar la productividad operativa entre un 30% y 45%.
@@ -66,7 +66,7 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 4. Brecha Local: El 35% de las medianas empresas del sector químico reportan problemas críticos en su cadena de suministro y gestión de inventarios.
 
-## 📈 Tendencias del Sector
+### 📈 Tendencias del Sector
 
 - Brecha de Eficiencia: Existe una diferencia del 30% en eficiencia respecto a las grandes corporaciones debido a la persistencia de lo manual.
 
@@ -74,7 +74,7 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 - Reducción de Errores: La tecnología tiene el potencial de reducir errores humanos entre un 67.68% y 85.73%.
 
-## 💡 Insights Identificados
+### 💡 Insights Identificados
 
 - Las medianas empresas de productos de limpieza necesitan automatizar y optimizar el control de recursos y productos porque la baja digitalización genera pérdidas económicas, desperdicio de insumos, un uso ineficiente de operarios y aumenta la carga operativa y el estrés laboral.
 
@@ -82,7 +82,7 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 - Las medianas empresas de productos de limpieza necesitan priorizar la optimización de su gestión de datos y reducir el tiempo de recolección porque una gestión ineficiente limita el control de los procesos, incrementa la carga y frustración de trabajadores y genera pérdidas operativas.
 
-## 🚀 Pregunta Retadora (HMW)
+### 🚀 Pregunta Retadora (HMW)
 
 ¿De qué manera podríamos automatizar los procesos productivos en medianas empresas de productos de limpieza en el Perú para reducir cuellos de botella y mejorar la eficiencia operativa?
 
