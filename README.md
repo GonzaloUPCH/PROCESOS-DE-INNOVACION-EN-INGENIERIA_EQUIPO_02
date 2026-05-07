@@ -90,18 +90,18 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 Este apartado identifica a los principales actores involucrados en los procesos productivos de las medianas empresas de productos de limpieza en el Perú, considerando sus necesidades, dificultades y participación dentro del sistema operativo.
 
-## 👷 Usuario Primario
+### 👷 Usuario Primario
 Operario de producción del área de mezclado: 
 
 • Trabajador encargado de la dosificación y mezcla de insumos químicos mediante procesos mayormente manuales y con limitado apoyo tecnológico. 
 
-## 📋 Usuario Secundario
+### 📋 Usuario Secundario
 Supervisor de producción:
 
 • Responsable de monitorear el proceso productivo, sin información en tiempo real para tomar decisiones eficientes.
 
 
-## 🏢 Usuario Terciario (Stakeholder)
+### 🏢 Usuario Terciario (Stakeholder)
 Gerente:
 
 • Responsable de la gestión estratégica y la rentabilidad del negocio. Sin embargo, se ve afectado por ineficiencias operativas, errores en producción y falta de control en tiempo real.
