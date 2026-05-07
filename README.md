@@ -86,6 +86,10 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 ¿De qué manera podríamos automatizar los procesos productivos en medianas empresas de productos de limpieza en el Perú para reducir cuellos de botella y mejorar la eficiencia operativa?
 
+## 👥 Identificación de Usuarios
+
+Este apartado identifica a los principales actores involucrados en los procesos productivos de las medianas empresas de productos de limpieza en el Perú, considerando sus necesidades, dificultades y participación dentro del sistema operativo.
+
 ## 👷 Usuario Primario
 Operario de producción del área de mezclado: 
 
