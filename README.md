@@ -87,19 +87,18 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 ¿De qué manera podríamos automatizar los procesos productivos en medianas empresas de productos de limpieza en el Perú para reducir cuellos de botella y mejorar la eficiencia operativa?
 
 ## 👷 Usuario Primario
-Operario de Producción
+Operario de producción del área de mezclado: 
 
-• Operario de producción del área de mezclado 
-Trabajador encargado de la dosificación y mezcla de insumos químicos mediante procesos mayormente manuales y con limitado apoyo tecnológico. 
+• Trabajador encargado de la dosificación y mezcla de insumos químicos mediante procesos mayormente manuales y con limitado apoyo tecnológico. 
 
 ## 📋 Usuario Secundario
-Supervisor de producción
+Supervisor de producción:
 
 • Responsable de monitorear el proceso productivo, sin información en tiempo real para tomar decisiones eficientes.
 
 
 ## 🏢 Usuario Terciario (Stakeholder)
-Gerente
+Gerente:
 
 • Responsable de la gestión estratégica y la rentabilidad del negocio. Sin embargo, se ve afectado por ineficiencias operativas, errores en producción y falta de control en tiempo real.
 
