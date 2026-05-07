@@ -141,8 +141,6 @@ El User Persona representa a Luis Sánchez, operario de producción de 38 años 
 
 Luis realiza gran parte de sus actividades de forma manual, como la dosificación de insumos y el registro de producción, lo que incrementa la probabilidad de errores, reprocesos y sobrecarga de trabajo. Además, presenta un acceso limitado a herramientas digitales, utilizando tecnología básica principalmente para comunicación.
 
-El análisis del User Persona permitió comprender la necesidad de implementar soluciones tecnológicas que brinden mayor control, claridad y apoyo durante el proceso productivo, contribuyendo a mejorar la eficiencia operativa y reducir el estrés laboral.
-
 ### 💡 Insights
 
 “Los operarios de producción necesitan sentirse seguros en su trabajo porque temen que pequeños errores afecten su estabilidad laboral”
