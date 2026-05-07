@@ -86,6 +86,35 @@ Nuestra investigación analizó datos de consultoras globales y entidades locale
 
 ¿De qué manera podríamos automatizar los procesos productivos en medianas empresas de productos de limpieza en el Perú para reducir cuellos de botella y mejorar la eficiencia operativa?
 
+## 👷 Usuario Primario
+Operario de Producción
+
+Encargado de la mezcla y dosificación manual de insumos químicos.
+
+Necesidades
+Mayor control del proceso.
+Reducción de errores.
+Información clara y rápida.
+## 📋 Usuario Secundario
+Supervisor de Producción
+
+Responsable del monitoreo y control operativo.
+
+Necesidades
+Información en tiempo real.
+Mayor trazabilidad.
+Control eficiente del proceso.
+
+## 🏢 Usuario Terciario (Stakeholder)
+Gerente
+
+Responsable de la gestión estratégica y rentabilidad.
+
+Necesidades
+Reducir pérdidas.
+Mejorar productividad.
+Optimizar costos operativos.
+
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/GonzaloUPCH/PROCESOS-DE-INNOVACION-EN-INGENIERIA_EQUIPO_02/blob/40de03bf027a7a41551e5c398b178ce77fe3f182/Recursos%20o%20Im%C3%A1genes/Foto-equipo.png" />
